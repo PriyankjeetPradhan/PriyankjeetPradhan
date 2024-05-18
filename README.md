@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankjeetpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="priyankjeetpradhan" /> </p>
 
-- 🔭 I’m currently working on **AIMS Portal.**
+- 🔭 I’m currently working on **My Chat App.**
 
 - 🌱 I’m currently learning **Nextjs.**
 
